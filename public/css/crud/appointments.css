@@ -1,0 +1,226 @@
+.crear-horario-de {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.crear-horario-de .form-model-wrapper {
+  width: 701px;
+  height: 398px;
+}
+
+.crear-horario-de .form-model {
+  height: 398px;
+  background-image: url(./img/form-modal.png);
+  background-size: 100% 100%;
+}
+
+.crear-horario-de .overlap {
+  position: relative;
+  width: 694px;
+  height: 369px;
+  top: 10px;
+  left: 2px;
+}
+
+.crear-horario-de .rectangulos {
+  position: absolute;
+  width: 670px;
+  height: 237px;
+  top: 132px;
+  left: 13px;
+}
+
+.crear-horario-de .overlap-group {
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  top: 7px;
+  left: 485px;
+}
+
+.crear-horario-de .imagenes {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 10px;
+  left: 103px;
+  background-image: url(./img/image-flecha-abajo.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.crear-horario-de .rectangle {
+  width: 130px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 40px;
+}
+
+.crear-horario-de .img {
+  width: 91px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 40px;
+}
+
+.crear-horario-de .rectangle-2 {
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  top: 7px;
+  left: 131px;
+}
+
+.crear-horario-de .rectangle-3 {
+  width: 130px;
+  top: 7px;
+  left: 311px;
+  position: absolute;
+  height: 40px;
+}
+
+.crear-horario-de .rectangle-4 {
+  width: 174px;
+  top: 197px;
+  left: 496px;
+  position: absolute;
+  height: 40px;
+}
+
+.crear-horario-de .rectangle-5 {
+  width: 174px;
+  top: 197px;
+  left: 296px;
+  position: absolute;
+  height: 40px;
+}
+
+.crear-horario-de .lineas {
+  position: absolute;
+  width: 694px;
+  height: 58px;
+  top: 30px;
+  left: 0;
+}
+
+.crear-horario-de .div {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 145px;
+  left: 74px;
+  background-image: url(./img/image.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.crear-horario-de .textos {
+  position: absolute;
+  width: 635px;
+  height: 365px;
+  top: 0;
+  left: 20px;
+}
+
+.crear-horario-de .text-wrapper {
+  position: absolute;
+  top: 103px;
+  left: 15px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.crear-horario-de .text-wrapper-2 {
+  position: absolute;
+  width: 76px;
+  top: 338px;
+  left: 543px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.crear-horario-de .text-wrapper-3 {
+  position: absolute;
+  top: 338px;
+  left: 334px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.crear-horario-de .p {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.crear-horario-de .text-wrapper-4 {
+  position: absolute;
+  top: 103px;
+  left: 316px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.crear-horario-de .text-wrapper-5 {
+  position: absolute;
+  top: 103px;
+  left: 130px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.crear-horario-de .text-wrapper-6 {
+  position: absolute;
+  top: 0;
+  left: 210px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.crear-horario-de .text-wrapper-7 {
+  position: absolute;
+  top: 103px;
+  left: 496px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
